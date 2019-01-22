@@ -56,3 +56,4 @@ Thumbs.db
 # WebStorm #
 ######################
 .idea/
+/.vs/ProjectSettings.json
