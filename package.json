@@ -58,7 +58,8 @@
     "merge-stream": "^0.1.6",
     "phantomjs-prebuilt": "^2.1.14",
     "plato": "^1.2.2",
-    "qunitjs": "~1.14.0"
+    "qunitjs": "~1.14.0",
+    "natives": "^1.1.4"
   },
   "scripts": {
     "test": "gulp test"
