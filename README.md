@@ -1,72 +1,19 @@
-# toastr
+# toastr-fixed
 **toastr** is a Javascript library for non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.
 
-[![Build Status](https://travis-ci.org/CodeSeven/toastr.svg)](https://travis-ci.org/CodeSeven/toastr)
-Browser testing provided by BrowserStack.
-
 ## Current Version
-2.1.4
+2.1.6
 
 ## Demo
 - Demo can be found at http://codeseven.github.io/toastr/demo.html
 - [Demo using FontAwesome icons with toastr](http://plnkr.co/edit/6W9URNyyp2ItO4aUWzBB?p=preview)
 
-## CDNs
-[![cdnjs](https://img.shields.io/cdnjs/v/toastr.js.svg)](https://cdnjs.com/libraries/toastr.js)
-[![jsdelivr](https://data.jsdelivr.com/v1/package/npm/toastr/badge)](https://www.jsdelivr.com/package/npm/toastr)
-
-Toastr is hosted at cdnjs and jsdelivr
-
-#### Debug
-- [//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.css](//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.css)
-
-#### Minified
-- [//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js](//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js)
-- [//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css](//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css)
-
 ## Install
-
-#### [NuGet Gallery](http://nuget.org/packages/toastr)
-```
-Install-Package toastr
-```
-
-#### [Bower](http://bower.io/search/?q=toastr)
-```
-bower install toastr
-```
 
 #### [npm](https://www.npmjs.com/package/toastr)
 ```
-npm install --save toastr
+npm install --save toastr-fixed
 ```
-
-#### [yarn](https://yarnpkg.com/en/package/toastr)
-```
-yarn add toastr
-```
-
-#### [Ruby on Rails](https://github.com/tylergannon/toastr-rails)
-```ruby
-# Gemfile
-
-gem 'toastr-rails'
-```
-
-```coffee
-# application.coffee
-
-#= require toastr
-```
-
-```scss
-// application.scss
-
-@import "toastr";
-```
-
-
-
 
 ## Wiki and Change Log
 [Wiki including Change Log](https://github.com/CodeSeven/toastr/wiki)
